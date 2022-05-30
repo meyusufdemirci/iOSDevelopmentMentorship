@@ -23,6 +23,6 @@ On the other hand in building UI programmatically, you only care about the ancho
 ## Questions
 
 ### Which One Should I Start with, UIKit or SwiftUI?
-In 2022, most companies still use UIKit actively. In case you work for a company, you will most probably face with a project written in UIKit, not SwiftUI. Also, SwiftUI has still some weaknesses rather than UIKit. When you come over a weakness of SwiftUI, you must build a bridge via UIKit by using **[UIViewRepresentable](https://developer.apple.com/documentation/swiftui/uiviewrepresentable)**. You must have UIKit knowledge to build that bridge.  
+In 2022, most companies still use UIKit actively. In case you work for a company, you will most probably face with a project written in UIKit, not SwiftUI. Also, SwiftUI has still some weaknesses rather than UIKit. When you come over a weakness of SwiftUI, you must build a bridge via UIKit by using [UIViewRepresentable](https://developer.apple.com/documentation/swiftui/uiviewrepresentable). You must have UIKit knowledge to build that bridge.  
 
 In conclusion, it is better to start with UIKit. After you have a job and you feel that you are okay with UIKit knowledge, you are free to improve our SwiftUI skills in your free time except during working hours.
