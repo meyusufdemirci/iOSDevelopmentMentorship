@@ -1,12 +1,28 @@
 This document includes personal answers/declarations of the most curious subjects and asked questions about iOS development.
 
 - [Subjects](#subjects)
+  - [System Requirements](#system-requirements)
   - [Course Suggestion](#course-suggestion) 
   - [Building UI, Storyboard vs Programmatically](#building-ui-storyboard-vs-programmatically)
 - [Questions](#questions)
   - [Which One Should I Start with, UIKit or SwiftUI?](#which-one-should-i-start-with-uikit-or-swiftui)
 
 ## Subjects
+
+### System Requirements
+You need a MacOS to run Xcode and Simulator, therefore the best device is MacBook for them. You can also give a chance to iMac and Mac mini but I assume that you will use the computer also outside of home.
+
+Minimum system requirements must be Intel i5 processor, 16GB Ram, 256GB SSD.
+
+The highly recommended system requirement is M1 processor, 16GB Ram, 512GB SSD. These requirements provide an excellent working environment without any delay/lagging. You are also free to consider getting 256GB SSD instead of 512.
+
+You will probably go with the Intel chips and old MacBooks if you have a limited budget. Consider choosing MacBook Pro then, I don't recommend MacBook Air with Intel chips. You will have some performance issues.
+
+Things change when it comes to M1 chip. It is quite perfect for performance. No fan, high performance at all. If the budget is still limited, I highly recommend upgrading the chip from Intel to M1, which is worth it. M1 is two times better than an average i5 processor, [here is the benchmark result](https://www.cpu-monkey.com/en/compare_cpu-apple_m1-1804-vs-intel_core_i5_6300u-589)  
+The ram still can be 16GB, and SSD 256 or 512GB.
+
+When M1 is your choice, you can go with MacBook Air, which is lighter than Pro. It only has %5 less performance than Pro, which is almost not even comparable.  
+In 2022, I am currently using M1 MacBook Air with 16GB Ram, 256GB SSD in professional iOS development.
 
 ### Course Suggestion
 Good course, good start. Hence, I suggest these,
