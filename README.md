@@ -60,6 +60,8 @@ Check the [building UI](#building-ui-storyboard-vs-programmatically) part in thi
 ### 3- Network Layer
 Every cool app needs a network communication with a backend service. We are supposed to make a clean, understandable, scalable network layer. It should be great if it supports generic types which provides flexibility for the response model will be parsed.
 
+I have an article about the generic network layer [here](https://demirciy.medium.com/generic-network-layer-in-ios-development-2bffff780832).
+
 Try to build the network layer by separating it 2 parts.
 
 #### 1- Base(Network Manager)
